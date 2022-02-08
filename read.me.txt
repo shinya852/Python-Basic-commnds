@@ -6,6 +6,8 @@ HelloFile…fileを作成し構文を引いたもの
 BMI Calculatiion.py…BMIの計算構文
 Turtle…turtlegraphicsを利用した図形を引く為の構文
 
+次回は別リポジトリでパイソンにおける基本的なプログラミングを勉強します
+
 最終的には別ファイル及びフォルダにてAIの実行とアプリの実装を目標としています
 
 使用環境Python3.6.1
