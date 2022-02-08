@@ -4,6 +4,7 @@ Idle‚Åì¬‚µ‚½‚à‚Ì‚ðGitã‚Éã‚°‚ê‚È‚¢‚©‚Æ–À‘–‚µ‚È‚ª‚çŽæ‚è‘g‚ñ‚Å‚¢‚Ü‚·‚Ì‚Å•sŽ©‘R‚
 Pythone.pycƒVƒFƒ‹‚ÉŠî–{ƒRƒ}ƒ“ƒh‚ð‘Å‚¿ž‚ñ‚¾ƒR[ƒh
 HelloFilecfile‚ðì¬‚µ\•¶‚ðˆø‚¢‚½‚à‚Ì
 BMI Calculatiion.pycBMI‚ÌŒvŽZ\•¶
+Turtlecturtlegraphics‚ð—˜—p‚µ‚½}Œ`‚ðˆø‚­ˆ×‚Ì\•¶
 
 ÅI“I‚É‚Í•Êƒtƒ@ƒCƒ‹‹y‚ÑƒtƒHƒ‹ƒ_‚É‚ÄAI‚ÌŽÀs‚ÆƒAƒvƒŠ‚ÌŽÀ‘•‚ð–Ú•W‚Æ‚µ‚Ä‚¢‚Ü‚·
 
