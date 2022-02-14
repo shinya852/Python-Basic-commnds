@@ -1,10 +1,11 @@
 このファイルはPythonの練習用のものです
 Idleで作成したものをGit上に上げれないかと迷走しながら取り組んでいますので不自然な形になっていると思いますがよろしくお願いいたします。
 
-Pythone.py…シェルに基本コマンドを打ち込んだコード
-HelloFile…fileを作成し構文を引いたもの
-BMI Calculatiion.py…BMIの計算構文
-Turtle…turtlegraphicsを利用した図形を引く為の構文
+Pythone.py… シェルに基本コマンドを打ち込んだコード
+test… 数値関連のコマンドの練習です
+HelloFile… fileを作成し構文を引いたもの
+BMI Calculatiion.py… BMIの計算構文
+Turtle… turtlegraphicsを利用した図形を引く為の構文
 
 次回は別リポジトリでパイソンにおける基本的なプログラミングを勉強します
 
