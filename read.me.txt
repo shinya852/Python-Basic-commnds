@@ -6,6 +6,7 @@ test… 数値関連のコマンドの練習です
 HelloFile… fileを作成し構文を引いたもの
 BMI Calculatiion.py… BMIの計算構文
 Turtle… turtlegraphicsを利用した図形を引く為の構文
+if…分岐条件の練習
 
 次回は別リポジトリでパイソンにおける基本的なプログラミングを勉強します
 
